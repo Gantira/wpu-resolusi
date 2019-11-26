@@ -6,6 +6,6 @@ RENCANA KONTENT WPU
     ^ React
 - Struktur Data Dasar
 - PHP FRAMEWORK
-  
+  * Laravel
 - Interview
 - Vlog
