@@ -4,5 +4,6 @@ RENCANA KONTENT WPU
   * Framwork Javascript
 - Struktur Data Dasar
 - PHP FRAMEWORK
+  ^ Laravel
 - Interview
 - Vlog
